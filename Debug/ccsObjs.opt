@@ -1,0 +1,1 @@
+"./ADC_Tm4c123.obj" "./DC_Motors.obj" "./Delay.obj" "./Flame_Detection.obj" "./PWM.obj" "./Servo.obj" "./Timers.obj" "./Ultrasonic.obj" "./main.obj" "./tm4c123gh6pm_startup_ccs.obj" "../tm4c123gh6pm.cmd" -llibc.a 
