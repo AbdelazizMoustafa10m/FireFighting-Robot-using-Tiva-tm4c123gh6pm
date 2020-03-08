@@ -16,6 +16,6 @@ int main(void)
 
     while(1)
     {
-		CAN_FOR_FIRE();
+		SCAN_FOR_FIRE();
     }
 }
