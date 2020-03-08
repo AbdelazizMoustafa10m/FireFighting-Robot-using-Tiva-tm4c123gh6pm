@@ -3,4 +3,4 @@ This firefighting robot project detects fires using flame sensors fixed at diffe
 fire.
 the robot also has the feature of obstacle avoidance using un Ultrasonic sensor.
 
-@Author <Abdelaziz Moustafa>
+@Author Abdelaziz Moustafa
